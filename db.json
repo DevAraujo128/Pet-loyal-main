@@ -1,0 +1,128 @@
+{
+  "pets": [
+    {
+      "id": "dfd1",
+      "city": "Valentina de Nossa Senhora",
+      "gender": "Fêmea",
+      "age": 3,
+      "name": "Rafeiro do Alentejo",
+      "size": "Médio",
+      "breed": "cow",
+      "phone": "(93) 0239-3856",
+      "userId": "f4c6"
+    },
+    {
+      "id": "d8ca",
+      "city": "Margarida do Sul",
+      "gender": "Macho",
+      "age": 7,
+      "name": "Thai Ridgeback",
+      "size": "Grande",
+      "breed": "bird",
+      "phone": "(55) 4439-7217",
+      "userId": "1792"
+    },
+    {
+      "id": "c62a",
+      "city": "Rafael de Nossa Senhora",
+      "gender": "Macho",
+      "age": 2,
+      "name": "Tyrolean Hound",
+      "size": "Grande",
+      "breed": "bear",
+      "phone": "(28) 5149-7849",
+      "userId": "f4c6"
+    },
+    {
+      "id": "5712",
+      "city": "Gabriel do Sul",
+      "gender": "Fêmea",
+      "age": 3,
+      "name": "Russian Toy",
+      "size": "Médio",
+      "breed": "snake",
+      "phone": "(15) 28267-6293",
+      "userId": "1792"
+    },
+    {
+      "id": "402e",
+      "city": "Breno de Nossa Senhora",
+      "gender": "Macho",
+      "age": 4,
+      "name": "German Hound",
+      "size": "Grande",
+      "breed": "rabbit",
+      "phone": "(69) 9689-9195",
+      "userId": null
+    },
+    {
+      "id": "2d67",
+      "city": "Carla de Nossa Senhora",
+      "gender": "Fêmea",
+      "age": 4,
+      "name": "Anglo-Français de Petite Vénerie",
+      "size": "Médio",
+      "breed": "bear",
+      "phone": "(17) 40493-6249",
+      "userId": "5b1d"
+    },
+    {
+      "id": "fc7c",
+      "city": "Davi de Nossa Senhora",
+      "gender": "Macho",
+      "age": 7,
+      "name": "Australian Cattle Dog",
+      "size": "Grande",
+      "breed": "cetacean",
+      "phone": "(38) 3498-5856",
+      "userId": null
+    },
+    {
+      "id": "5f84",
+      "city": "Nogueira do Norte",
+      "gender": "Fêmea",
+      "age": 8,
+      "name": "Vikhan",
+      "size": "Pequeno",
+      "breed": "lion",
+      "phone": "(62) 4953-7152",
+      "userId": null
+    },
+    {
+      "id": "e3c9",
+      "city": "Fabrícia do Sul",
+      "gender": "Fêmea",
+      "age": 5,
+      "name": "English Shepherd",
+      "size": "Grande",
+      "breed": "snake",
+      "phone": "(17) 32161-1258",
+      "userId": null
+    },
+    {
+      "id": "954d",
+      "city": "Clara do Norte",
+      "gender": "Macho",
+      "age": 7,
+      "name": "Boston Terrier",
+      "size": "Grande",
+      "breed": "snake",
+      "phone": "(51) 9725-8670",
+      "userId": null
+    }
+  ],
+  "users": [
+    {
+      "id": "5b1d",
+      "name": "João Pedro",
+      "email": "joaopedro123@gmail.com",
+      "password": "1745"
+    },
+    {
+      "id": "f33f",
+      "name": "Marcos",
+      "email": "marcos123@gmail.com",
+      "password": "123"
+    }
+  ]
+}
